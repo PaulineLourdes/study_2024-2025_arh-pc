@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+author: "Chefe Mateus"
 
 ## Generic otions
 lang: ru-RU
@@ -109,7 +109,7 @@ header-includes:
 
 Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. [-@fig:001]).
 
-![Название рисунка](image/placeimg_800_600_tech.jpg){#fig:001 width=70%}
+![Estou cansado dessa vida](image/1.png){#fig:001 width=70%}
 
 # Выводы
 
@@ -118,4 +118,4 @@ header-includes:
 # Список литературы{.unnumbered}
 
 ::: {#refs}
-:::
+::: Paula
